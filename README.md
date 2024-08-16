@@ -14,6 +14,8 @@ The version used is as below: -
 
 **Note: Varying versions may cause incompatibility**
 
+**Initial test may take longer**
+
 ## Getting Started
 
 Before running any of the scripts below, be sure to perform the following command:
